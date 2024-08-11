@@ -1,0 +1,5 @@
+.gitignore
+simple/
+mosaic/*
+uploads/*
+mosaic.py
